@@ -36,7 +36,7 @@ The dataset was extracted from Kaggle, preprocessed in Python to ensure data acc
 
 **- Temperature vs. Wind Speed Heatmap:** A matrix heatmap that visualizes the number of bike rides in relation to temperature (°C) and wind speed (kph). Darker shades represent higher numbers of bike rides, enabling quick identification of weather conditions with the highest bike activity.
 
-Feel free to explore the dashboard! [London Bikes Ride with Python and Tableau](https://github.com/Rdailuo/londonbikes/tree/main)
+Feel free to explore the dashboard! [London Bikes Ride with Python and Tableau](https://github.com/Rdailuo/London_bikes/blob/main/London%20Bikes%20Rides%20Tableau%20Dashboard.twbx)
 
 **Credits**
 This project was created by following the guidance from Mo Chen https://mochen.info/. Special thanks for providing an insightful tutorial on using Python and Tableau for data analysis and visualization.
